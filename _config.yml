@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : yfme                                
 your_link                                 : https://yangfei.me                     
-your_city                                 : Beijing                                
+your_city                                 :                                 
 email_address                             : yangfei.me@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -36,11 +36,11 @@ features                                  :
 
   - title                                 : Search 550,000+ games
     description                           : Explore the largest video game database.
-    fontawesome_icon_name                 : searchengin
+    fontawesome_icon_name                 : search
     
   - title                                 : New and trending
-    description                           : Get the most anticipated upcoming games.
-    fontawesome_icon_name                 : calendar-plus
+    description                           : Follow the most anticipated upcoming games.
+    fontawesome_icon_name                 : calendar-alt
 
   - title                                 : Top and popular
     description                           : View the rank and best games.
@@ -48,9 +48,9 @@ features                                  :
 
   - title                                 : All platforms and genres
     description                           : Play Station, Xbox, Switch, PC, Action, RPG, Adventure…
-    fontawesome_icon_name                 : cubes
+    fontawesome_icon_name                 : layer-group
 
-  - title                                 : Collection
+  - title                                 : Collections
     description                           : Mark your favorite games.
     fontawesome_icon_name                 : folder-plus
   
